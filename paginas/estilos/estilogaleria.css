@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	width: 45%;
+}
+.imag{
+	display: flex;
+	padding: 5px;
+}
+.imguno{
+	flex: 40%;
+	padding: 5px;
+}
+
+.imguno img{
+	margin-top: 5px;
+
+	}
